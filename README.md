@@ -20,7 +20,7 @@ The dataset used is a collection of SMS messages labeled as 'spam' or 'ham' (non
 - `spam.csv`: The dataset file.
 - `spam_classifier.pkl`: The trained Naive Bayes model.
 - `tfidf_vectorizer.pkl`: The TF-IDF vectorizer.
-- `sms_spam_classifier.ipynb`: Jupyter Notebook with the complete code.
+- `untitled6.ipynb`: Jupyter Notebook with the complete code.
 
 ## How to Run
 
